@@ -3,6 +3,16 @@
 
 Este é um projeto completo de conversor de moedas com **backend em Java Spring Boot** e **frontend em Ionic Angular**, que permite converter valores entre diferentes moedas em tempo real.
 
+## 💻 Projeto em Frontend (Ionic):
+````plaintext
+https://github.com/James-Script/conversor-moeda.git
+````
+### ⚠️ Importante ter o node e o ionic instalados.
+---
+## 🔙 Projeto Backend:
+````plaintext
+https://github.com/CauaFM/Convers-o-moeda.git
+````
 ---
 
 ## 📸 Imagens do Projeto
@@ -25,9 +35,11 @@ Node.js (v18+)
 
 Ionic CLI (npm install -g @ionic/cli)
 ```bash
-# Clone o repositório do front-end
-git clone https://github.com/thainaae2/conversor-moedas-api.git
-cd conversor-moedas-api/conversor-moedas
+# Clone o repositório do projeto
+git clone https://github.com/James-Script/conversor-moeda.git
+
+# Acesse a pasta do projeto
+cd conversor-moeda
 
 # Instale as dependências
 npm install
