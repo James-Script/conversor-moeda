@@ -3,6 +3,16 @@
 
 Este é um projeto completo de conversor de moedas com **backend em Java Spring Boot** e **frontend em Ionic Angular**, que permite converter valores entre diferentes moedas em tempo real.
 
+---
+
+### Observe que precisará ter:
+
+- VSCODE/IONIC + ANGULAR;
+- INTELLIJ IDEA com o Spring Boot rodando(Link do Backend logo abaixo);
+- POSTMAN.
+
+---
+
 ## 💻 Projeto em Frontend (Ionic):
 ````plaintext
 https://github.com/James-Script/conversor-moeda.git
@@ -74,7 +84,7 @@ mysql -u root -p < backend.sql
 
 - Java 17+
 
--Maven 3.3.9
+- Maven 3.3.9
 
 - Node.js v22.15.0
 
